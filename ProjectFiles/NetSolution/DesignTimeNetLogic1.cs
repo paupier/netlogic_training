@@ -9,6 +9,7 @@ using FTOptix.NativeUI;
 using FTOptix.Core;
 using FTOptix.CoreBase;
 using FTOptix.NetLogic;
+using FTOptix.Recipe;
 #endregion
 
 public class DesignTimeNetLogic1 : BaseNetLogic
