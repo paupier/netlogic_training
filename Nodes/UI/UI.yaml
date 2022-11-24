@@ -82,5 +82,5 @@ Children:
     DataType: Size
     ModellingRule: Optional
     Value: 400.0
-- File: Displays/Displays.yaml
 - File: Templates/Templates.yaml
+- File: Displays/Displays.yaml

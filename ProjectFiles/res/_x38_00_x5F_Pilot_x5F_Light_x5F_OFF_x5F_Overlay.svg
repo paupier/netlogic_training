@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_ptTpM" x="0px" y="0px" width="151.039px" height="151.035px" viewBox="0 0 151.039 151.035" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="75.0703" y1="44.0996" x2="75.0703" y2="122.0693">
+    <stop offset="0" style="stop-color:#231F20;stop-opacity:0.14"/>
+    <stop offset="1" style="stop-color:#231F20;stop-opacity:0.44"/>
+  </linearGradient>
+  <path display="none" fill="url(#SVGID_6_)" d="M75.072,24.236c-28.375,0-51.375,23-51.375,51.373c0,0.221,0.029,0.434,0.034,0.654&#xD;&#xA;&#x9;&#x9;c0.353,28.07,23.187,50.719,51.341,50.719c5.359,0,10.529-0.826,15.385-2.35c0.309-0.097,0.605-0.215,0.91-0.318&#xD;&#xA;&#x9;&#x9;c2.861-0.96,5.596-2.186,8.205-3.621c0.617-0.336,1.232-0.674,1.836-1.034c14.803-8.871,24.782-24.94,25.014-43.396&#xD;&#xA;&#x9;&#x9;c0.001-0.221,0.021-0.434,0.021-0.654C126.443,47.236,103.443,24.236,75.072,24.236z"/>
+  <radialGradient id="SVGID_7_" cx="75.5215" cy="75.5244" r="45.521" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#000000;stop-opacity:0.3"/>
+    <stop offset="0.8587" style="stop-color:#000000;stop-opacity:0.3"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.3"/>
+  </radialGradient>
+  <path fill="url(#SVGID_7_)" d="M121.045,75.521c0,25.142-20.38,45.522-45.523,45.522s-45.524-20.381-45.524-45.522&#xD;&#xA;&#x9;&#x9;c0-25.136,20.381-45.515,45.524-45.515S121.045,50.385,121.045,75.521z"/>
+  <radialGradient id="SVGID_8_" cx="75.5225" cy="75.5234" r="63.23" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#000000;stop-opacity:0.3"/>
+    <stop offset="0.8587" style="stop-color:#000000;stop-opacity:0.3"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.3"/>
+  </radialGradient>
+  <path fill="url(#SVGID_8_)" d="M138.756,75.519c0,34.925-28.309,63.231-63.234,63.231c-34.928,0-63.232-28.307-63.232-63.231&#xD;&#xA;&#x9;&#x9;c0-34.916,28.305-63.221,63.232-63.221C110.447,12.298,138.756,40.603,138.756,75.519z"/>
+</svg>
