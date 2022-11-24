@@ -23,7 +23,7 @@ Children:
   - Name: MinimumPasswordLength
     Type: PropertyType
     DataType: Byte
-    Value: 8
+    Value: 3
 - Name: Locales
   Type: BaseDataVariableType
   DataType: String
@@ -59,3 +59,8 @@ Children:
     Type: PropertyType
     DataType: NodeId
     Value: {"Id":61}
+- Name: AuthenticationMode
+  Type: PropertyType
+  DataType: AuthenticationMode
+  ReferenceType: HasComponent
+  Value: 0
